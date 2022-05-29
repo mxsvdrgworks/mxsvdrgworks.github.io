@@ -1,5 +1,4 @@
 # My portfolio
-<!DOCTYPE html>
 <html>
 <body>
  <h2>1.Gender recognition tool with ML </h2>
